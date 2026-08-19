@@ -1,0 +1,6 @@
+{
+  "name": "Cestrix Industrial Telemetry Simulator",
+  "description": "Enterprise CLI tool and live simulation deck generating real-time IoT telemetry for heavy machinery, haul trucks, and excavators with dynamic physics, MQTT streaming, and customizable fleet parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
